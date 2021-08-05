@@ -24,16 +24,6 @@ public class Main {
         }
         print(Arrays.toString(removed));
 
-        // to add a value to the back of queue:
-        queue.add(7);
-
-        // to remove and return front value:
-        int next = queue.remove();
-
-        // to just return front value without removing:
-        int peek = queue.peek();
-
-
         /**
          * Print the elements of the queue in the right order
          * i.e. the head first, and the tail last.
