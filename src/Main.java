@@ -41,6 +41,7 @@ public class Main {
          * the head of the queue is in the middle of the array backing the queue.
          */
         //Put your codes here
+        print("Array elements: " + Arrays.toString(added_elements));
     }
 
     public static void print(Object o){
